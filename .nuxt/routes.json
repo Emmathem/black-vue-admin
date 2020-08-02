@@ -2,15 +2,15 @@
   {
     "name": "auth",
     "path": "/auth",
-    "component": "/Applications/MAMP/htdocs/black-admin/pages/auth/index.vue",
+    "component": "/Applications/MAMP/htdocs/black-vue-admin/pages/auth/index.vue",
     "chunkName": "pages/auth/index",
-    "_name": "_42319bc2"
+    "_name": "_32eab646"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Applications/MAMP/htdocs/black-admin/pages/index.vue",
+    "component": "/Applications/MAMP/htdocs/black-vue-admin/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_69c2998e"
+    "_name": "_2948d907"
   }
 ]

@@ -5,12 +5,6 @@
   "LazyLogo": {
     "description": "Auto imported from components/Logo.vue"
   },
-  "AppLogin": {
-    "description": "Auto imported from components/login/AppLogin.vue"
-  },
-  "LazyAppLogin": {
-    "description": "Auto imported from components/login/AppLogin.vue"
-  },
   "AppFooter": {
     "description": "Auto imported from components/layouts/AppFooter.vue"
   },
@@ -22,5 +16,11 @@
   },
   "LazyAppHeader": {
     "description": "Auto imported from components/layouts/AppHeader.vue"
+  },
+  "AppLogin": {
+    "description": "Auto imported from components/login/AppLogin.vue"
+  },
+  "LazyAppLogin": {
+    "description": "Auto imported from components/login/AppLogin.vue"
   }
 }
