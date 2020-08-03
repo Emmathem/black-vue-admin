@@ -9,6 +9,7 @@ export default {
     port: 4500,
     host: '0.0.0.0',
   },
+  router: {},
   /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
@@ -33,6 +34,9 @@ export default {
       },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+  },
+  loading: {
+    color: '#000',
   },
   /*
    ** Global CSS

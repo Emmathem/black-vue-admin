@@ -1,6 +1,16 @@
 <template>
-  <div>
-    <b-container fluid>
+  <div class="loginContainer">
+    <b-container>
+      <b-row>
+        <b-col :cols="6">
+          <img src="../../assets/images/login-animate.svg" alt="login svg">
+        </b-col>
+        <b-col :cols="6">
+          login form
+        </b-col>
+      </b-row>
+    </b-container>
+    <!-- <b-container fluid>
       <b-row>
         <b-col :cols="6" class="login_side">
           <div class="__innerSide">
@@ -60,7 +70,7 @@
           </div>
         </b-col>
       </b-row>
-    </b-container>
+    </b-container> -->
   </div>
 </template>
 
